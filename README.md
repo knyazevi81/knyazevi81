@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id='stat' align='center'>
   <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knyazevi81&theme=algolia'/>
   <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knyazevi81&theme=algolia'/>
